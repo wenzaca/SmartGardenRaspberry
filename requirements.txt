@@ -1,0 +1,9 @@
+boto3==1.9.118
+AWSIoTPythonSDK==1.4.4
+spidev==3.4
+numpy==1.16.2
+schedule==0.6.0
+Adafruit-MCP3008==1.0.2
+Adafruit_DHT==1.4.0
+Adafruit-GPIO==1.0.3
+RPi.GPIO==0.7.0
